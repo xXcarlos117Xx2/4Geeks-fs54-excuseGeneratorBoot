@@ -7,8 +7,3 @@ body {
   justify-content: center;
   align-items: center;
 }
-h1,
-p {
-  font-size: 5vh;
-  margin: 10px 0;
-}
